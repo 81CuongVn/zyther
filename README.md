@@ -1,1 +1,2 @@
-# test-bot-source
+# Zyther
+A legit bot :)
