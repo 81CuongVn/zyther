@@ -1,0 +1,16 @@
+{
+  "TOKEN": "NzU1MzQ0MjUwMTYxNDYzMzM2.X2B7Jg.9ABehZsCPU3dbx92MPjKjNnG1Yg",
+  "PREFIX": ".",
+  "database": "mongodb+srv://Nezuko:DARKFANG46@cluster0.2ph4a.mongodb.net/Cluster0?retryWrites=true&w=majority",
+  "token": "NzU1MzQ0MjUwMTYxNDYzMzM2.X2B7Jg.9ABehZsCPU3dbx92MPjKjNnG1Yg",
+  "default_prefix": ".",
+  "imdbKey": "k_5i4hppl",
+  "YOUTUBE_API_KEY": "AIzaSyAyu749vG6jMafAbLAVOoUQX1pSCE0xbts",
+  "SOUNDCLOUD_CLIENT_ID": "2t9loNQH90kzJcsFCODdigfp32aq4z",
+  "QUEUE_LIMIT": 10,
+  "COLOR": "GREEN",
+  "youtubeApiKey": "AIzaSyAyu749vG6jMafAbLAVOoUQX1pSCE0xbts",
+  "ownerID": "747685266252234753",
+  "reportsChannelId": "765936894022123550",
+  "feedBackChannelId": "764737920690814987"
+}
